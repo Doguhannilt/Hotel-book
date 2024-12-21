@@ -6,10 +6,19 @@
 
 This project was developed as a demonstration of building a modern, feature-rich web application using the MERN stack. It showcases best practices in frontend and backend development, including user authentication and CRUD operations.
 
-Feel free to explore the "Hotel Books" project and experience the seamless booking process it offers.</p> <br><br>
+Feel free to explore the "Hotel Books" project and experience the seamless booking process it offers.</p> <br><be>
+
+<h1>UPDATE - DECEMBER 21 2024</h1>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/611d01de-3106-47da-9e38-ffcc7e71da7a" alt="Image 1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/442c5539-e4b2-4b1e-9422-063fffb806d2" alt="Image 1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/b7575da2-2393-45df-ae89-79174c4bcc1e" alt="Image 1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/81be80aa-cbad-47b4-b3a2-241ec787a327" alt="Image 1" width="400"/>
+</div>
 
 
-
+<h1>OLD VERSION</h1>
 
 <div align="center">
   <img src="https://github.com/Doguhannilt/Hotel-books/assets/77373443/1d8ca0f8-36f8-4786-851c-4a93bf0144c1" alt="Image 1" width="400"/>
