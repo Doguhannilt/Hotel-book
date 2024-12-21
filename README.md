@@ -1,12 +1,17 @@
 
-<h1 align="center">FULL STACK MERN - HOTEL BOOKS PROJECT</h1>
 
-<p><b>Description: </b> The "<u>LunaHotel</u>" project is a full-stack web application built using the MERN stack, which stands for MongoDB, Express.js, React.js, and Node.js. </p> 
-<p><b>Purpose: </b>The main goal of the "Hotel Books" project is to provide users with a user-friendly platform to browse, book, and manage hotel reservations. Whether planning a vacation or a business trip, users can easily find suitable accommodations and make secure bookings.
+# LunaHotel - Hotel Booking Platform
 
-This project was developed as a demonstration of building a modern, feature-rich web application using the MERN stack. It showcases best practices in frontend and backend development, including user authentication and CRUD operations.
+**LunaHotel** is a modern full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The project provides a seamless and intuitive platform for users to browse, book, and manage hotel reservations for both leisure and business travel.
 
-Feel free to explore the "Hotel Books" project and experience the seamless booking process it offers.</p> <br><be>
+## Purpose
+
+The primary goal of **LunaHotel** is to create a user-friendly experience for finding and reserving hotel accommodations. Whether you're planning a vacation getaway or a business trip, **LunaHotel** ensures that users can easily search for suitable hotels, make secure bookings, and manage their reservations.
+
+This project serves as a comprehensive demonstration of building a feature-rich web application using the MERN stack, showcasing best practices in both frontend and backend development.
+
+Feel free to explore **LunaHotel** and experience the smooth, secure, and efficient hotel booking process it offers.
+
 
 <h1>UPDATE - DECEMBER 21 2024</h1>
 
